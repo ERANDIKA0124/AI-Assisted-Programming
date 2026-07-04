@@ -14,7 +14,7 @@ Features
 
 How to Run
 
-Open a terminal inside the `src` folder and run:
+Open a terminal inside the folder and run:
 
 ```bash
 javac StudentPerformanceTraditional.java
