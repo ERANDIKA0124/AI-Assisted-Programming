@@ -1,0 +1,23 @@
+*Prompt1
+Suggest a moderate Java console project suitable for an AI-assisted programming assessment.
+
+
+
+*Prompt2
+Give me a simple Java class design for a student marks management system.
+
+
+
+*Prompt3
+Improve input validation for marks between 0 and 100 in Java.
+
+
+
+*Prompt4
+Explain how to compare manual and AI-assisted implementations.
+
+
+
+*Prompt5
+Check this Java code for readability and possible errors.
+
